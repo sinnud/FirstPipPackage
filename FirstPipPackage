@@ -1,0 +1,9 @@
+#!/usr/bin/env python
+
+#echo "hey there, this is my first pip package"
+#print("hey there, this is my first pip package")
+
+from sinnud import Sinnud
+
+thisguy=Sinnud()
+thisguy.printname()
